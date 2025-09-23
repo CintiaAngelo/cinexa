@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/22e82d0f-87f5-4d51-9c55-4b9c6fc32580/resourceGroups/Cinexa-MySQL/providers/Microsoft.Web/sites/app-cinexa-final",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,10 @@
+# Arquivo de log e dependências
+node_modules/
+npm-debug.log
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
